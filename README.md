@@ -98,3 +98,9 @@ Pristini School of AI – Sousse, Tunisia
 ---
 
 *Academic internship project – Summer 2026*
+## 📂 Project Deliverables
+
+- [Interactive Hotel Dashboard](./dashboard_hotel_en.html)
+- [Excel Dataset and KPI Calculations](./hotel_bi_data_kpi.xlsx)
+
+*Note: All data used in this project is simulated and does not represent the hotel's actual performance.*
