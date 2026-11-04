@@ -75,7 +75,16 @@ These recommendations are illustrative and based on simulated data.
 - Guest nationality analysis.
 - Interactive monthly filter.
 - Charts with interactive tooltips.
+## 🖥️ Dashboard Preview
 
+### Screenshot 1 – Dashboard Overview
+![Dashboard Overview](<Capture d'écran 2026-11-04 210526.png>)
+
+### Screenshot 2 – Performance Analysis
+![Performance Analysis](<Capture d'écran 2026-11-04 210545.png>)
+
+### Screenshot 3 – Detailed KPI Analysis
+![KPI Analysis](<Capture d'écran 2026-11-04 210607.png>)
 ## 🎓 Skills Demonstrated
 
 Business Intelligence · Data Analysis · Python · Excel · Data Visualization · KPI Development · HTML · JavaScript · Business Performance Analysis
